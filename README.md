@@ -13,7 +13,7 @@ Explore mentoring programs and projects to contribute to open source. Details on
 | Summer of Bitcoin | Engages students in Bitcoin protocol and open source development. | [www.summerofbitcoin.org](https://www.summerofbitcoin.org/) |
 | FOSSASIA University Students Program | Connects students to AI, web, and hardware projects with mentorship. | [fossasia.org](https://fossasia.org/) |
 | Google Season of Docs | Pairs technical writers with projects to improve open source documentation. | [developers.google.com/season-of-docs](https://developers.google.com/season-of-docs) |
-
+| GirlScript Summer of Code | Open-Source Program to help beginners get started with open-source development. | [https://gssoc.girlscript.tech](https://github.com/GSSoC24/Contributor) |
 ## Open Source Learning Platforms and Curriculum Projects
 
 | Project | Purpose | Link |
