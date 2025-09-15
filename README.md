@@ -1,6 +1,6 @@
 # Open Source Contribution Opportunities
 
-Explore mentoring programs and projects to contribute to open source. Details on how to contribute are in [CONTRIBUTING.md](CONTRIBUTING.md).
+Explore mentoring programs and projects to contribute to open source. Details on how to contribute are in [CONTRIBUTION.md](CONTRIBUTION.md).
 
 ## Mentoring Programs
 
